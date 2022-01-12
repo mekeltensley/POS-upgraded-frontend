@@ -1,6 +1,19 @@
-# `Checkout and Navigation Component`
+# `Checkout, Landing Page and Navigation Component`
 
 ## The checkout page that will be rendered when a guest completes their order
+
+### `Landing Page`
+
+![Rising Bistro Landing Page](template.jpg)
+
+### `Checkout Page`
+
+![Rising Bistro Checkout Page](template.jpg)
+
+### `Navigation Page`
+
+![Rising Bistro Navigation Bar](template.jpg)
+
 
 ```js
 <section class="container">
