@@ -6,16 +6,44 @@
 
 ![Rising Bistro Landing Page](template.jpg)
 
-### `Checkout Page`
-
-![Rising Bistro Checkout Page](template.jpg)
 
 ### `Navigation Page`
 
 ![Rising Bistro Navigation Bar](template.jpg)
 
+```js
+            <nav className="navbar no-hover" role="navigation" aria-label="main navigation">
+                    <div id="navbarBasicExample" className="navbar-menu">
+                        <div className="restaurant-middle navbar-item navbar-center">
+                            <h1 className='res-name'>Rising Bistro</h1>
+                        </div>
+                        <div className="navbar-end">
+                            <div className="navbar-item">
+                                <div className="order-buttons">
+                                    <p className="seat-number">
+                                        <span>
+                                            Seat Number :
+                                        </span>
+                                    </p>
+                                    <p className="order-total">
+                                        <span>
+                                            Order Total : $
+                                        </span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+```
+
 
 ```js
+
+### `Checkout Page`
+
+![Rising Bistro Checkout Page](template.jpg)
+
 <section class="container">
                     <div class="columns is-multiline">
                         <div class="column is-8 is-offset-2 register">
