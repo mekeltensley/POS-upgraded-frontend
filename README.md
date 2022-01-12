@@ -41,7 +41,7 @@
 
 ## The checkout page that will be rendered when a guest completes their order
 
-![Rising Bistro Checkout Page](template.jpg)
+![Rising Bistro Checkout Page](checkout.jpg)
 
 ```js
 
