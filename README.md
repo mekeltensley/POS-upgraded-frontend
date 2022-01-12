@@ -1,6 +1,5 @@
 # `Checkout, Landing Page and Navigation Component`
 
-## The checkout page that will be rendered when a guest completes their order
 
 ### `Landing Page`
 
@@ -38,11 +37,13 @@
 ```
 
 
-```js
-
 ### `Checkout Page`
 
+## The checkout page that will be rendered when a guest completes their order
+
 ![Rising Bistro Checkout Page](template.jpg)
+
+```js
 
 <section class="container">
                     <div class="columns is-multiline">
