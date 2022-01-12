@@ -8,7 +8,7 @@
 
 ### `Navigation Page`
 
-![Rising Bistro Navigation Bar](template.jpg)
+![Rising Bistro Navigation Bar](navbar.jpg)
 
 ```js
             <nav className="navbar no-hover" role="navigation" aria-label="main navigation">
