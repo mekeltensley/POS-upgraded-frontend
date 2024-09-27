@@ -1,12 +1,63 @@
+.restaurant-name {
+    text-align: center;
+    font-size: 20px;
+}
+
+.main-navbar {
+    background-color: #D36135;
+}
+
+.main-image {
+    background-image: url("https://images.unsplash.com/photo-1516684902511-1e07238471ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    padding-bottom: 55px;    
+}
+.order-buttons {
+    display: inline-block;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+}
+
+.seat-number {
+    border: 1px solid #83BCA9;
+    background-color: #83BCA9;
+    
+    padding:15px 15px;
+    font-size: 15px;
+}
+.order-total {
+    margin-top: 5px;
+    border: 1px solid #83BCA9;
+    background-color: #83BCA9 ;
+    padding:15px 15px;
+    font-size: 15px;
+}
+
+.navbar-item.navbar-center {
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #aa5440;
+}
+
+.navbar-item {
+    background-color: #aa5440;
+}
+.res-name {
+    font-size: 60px;
+    color: #e6764a;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    letter-spacing: 4px;
+    margin-left: 85px;
+}
+
+.no-hover{
+    pointer-events: none;
+}
+
 .tabs {
     margin-bottom: -1px !important;
     position: relative;
-    }
-    .tab-content {
-    padding: 60px;
-    top: 197px;
-    color: #000;
-    background-color: white;
     }
     .tab-pane {
     display: none;
@@ -49,3 +100,19 @@
         width: 100%;
         height: 100%;
     }
+    .menuFlex{
+        display: flex;
+        justify-content: center;
+        margin-top: 130px;
+        margin-bottom: 130px;
+        justify-content: space-around;
+    }
+    .menuItem{
+        background-color: pink;
+        width: 400px;
+        height: 150px;
+    }
+    #color{
+        color: Pink;
+    }
+
